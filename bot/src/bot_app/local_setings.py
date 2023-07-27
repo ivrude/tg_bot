@@ -1,0 +1,2 @@
+API_KEY="6542659135:AAEsVEDtZZwwazKRnTebiS3kVDr5CzTlumk"
+EVENTS_API_URL_ALL = 'http://127.0.0.1:8000/events/'
